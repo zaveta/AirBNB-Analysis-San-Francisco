@@ -1,4 +1,4 @@
-# AirBNB-Analysis-San-Francisco
+# Airbnb-Analysis-San-Francisco
 
 ### Motivation
 The project applies the CRISP-DM process on Airbnb San Francisco datasets to gain insight into Airbnb hosting business during COVID-19. A post for this project is on [Medium](https://medium.com/@victorysharaf/how-have-airbnb-prices-changed-due-to-covid-19-d501dc893b02).
@@ -7,7 +7,7 @@ The project applies the CRISP-DM process on Airbnb San Francisco datasets to gai
 * __AirBNB_Analysis_San_Francisco.ipynb__ includes data preparation, analysis, visualization, and machine learning models.
 * __datasets__ folder includes
   * listings.csv
-  * calendar.csv
+  * calendar.csv in zip
 * __planning_neighborhoods__ folder includes geodata about San Francisco neighbourhoods
  
 ### Libraries use
